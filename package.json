@@ -1,7 +1,7 @@
 {
-  "name": "contact-keeper",
+  "name": "store-my-contacts",
   "version": "1.0.0",
-  "description": "Contact manager app",
+  "description": "Store My contactsr app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
